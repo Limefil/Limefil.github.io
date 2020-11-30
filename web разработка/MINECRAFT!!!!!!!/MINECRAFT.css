@@ -1,0 +1,62 @@
+body{
+  margin: 0;
+  font-size: 15px;
+  font-family: "Courier New", Courier, monospace;
+  color: #2e354f
+}
+
+
+h1,
+h2,
+strong{
+  font-weight: 900;
+}
+
+
+a{
+  color: #ef5839;
+}
+
+a:hover{
+  color: pink;
+
+}
+
+.btn{
+  padding: 10px 25px;
+  text-decoration: none;
+}
+.btn-accent {
+  background-color: red;
+  color: #c62828;
+}
+
+.btn-white {
+  background-color: pink;
+  color: black;
+}
+.btn-accent:hover{
+   background-color: #c62828;
+}
+  .btn-white:hover{
+    background-color: #c62828;
+  }
+  header{
+    color: pink;
+    background-color: #EEEEEE;
+    padding: 135px 10px
+  }
+  main{
+    color:pink;
+    background-color: #283593;
+    padding: 45px 0px
+  }
+  footer{
+    color: pink;
+    background-color: #c62828;
+    padding: 75px 0px
+  }
+  .container{
+    width: 50%;
+    margin: 0 auto;
+  }
